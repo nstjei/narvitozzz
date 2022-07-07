@@ -94,6 +94,10 @@ header {
     background-position: center center;
 }
 
+#matriculate a{
+    text-decoration: none;
+}
+
 #Boton {
     margin: 5px;
 }
